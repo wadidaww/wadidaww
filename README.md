@@ -10,8 +10,8 @@ Currently: **C++ Software Engineer at Huawei Hong Kong Research Center**, workin
 
 ## What's cooking
 
-- Building high-performance C++ at Huawei HKRC
-- Optimizing compiler passes (once shaved off **99.9%** of compile time — still grinning about that)
+- Building high-performance AscendNPU-IR at Huawei HKRC
+- Competitively programming at Competitive Programming competitions
 - Diving into distributed systems and applied AI
 - Building automated trading systems and nanosecond orderbooks for fun
 - Always down for an algorithm puzzle or a weird side project
