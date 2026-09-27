@@ -1,8 +1,13 @@
 # Hey, Kresna here 👋
 
-C++ by day. Algorithms by night. Probably debugging something right now.
+👋Hello World 🌐! Let's turn coffee and curiosity into code 💻, and “what if we built…” 💡 into “okay, it’s live.” 🚀
 
-Currently: **C++ Software Engineer at Huawei Hong Kong Research Center**, working on AI compilers for NPU architectures. Past lives: full-stack engineer, backend/frontend dev, competitive programming trainer, web programmer, IT trainer, indie game dev. So yeah — a lot of hats. Always up for trying on more.
+👨‍💻 A C++ Software Engineer here at Huawei Hong Kong Research Center 🏢! 
+Working on AI compilers 🤖 for NPU architectures ⚙️🧠.
+
+Past lives 🔄: Used to do programming competitively at competitive programming competitions. Gratefully won a silver medal 🥈 at ICPC Asia Jakarta 2022 🏆.
+Was also full-stack engineer, competitive programming trainer 🏋️‍♂️💻, indie game dev 🎮.
+So yeah — a lot of hats 🎩. Always up for trying on more and yet still learning 📚🌱.
 
 🏆 **ICPC Silver Medalist (Asia Jakarta 2022)** · **Gold Medalist Open KSN/OSN 2021** · **Top 0.04% on LeetCode**
 
