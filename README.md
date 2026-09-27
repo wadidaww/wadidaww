@@ -11,7 +11,7 @@ Currently: **C++ Software Engineer at Huawei Hong Kong Research Center**, workin
 ## What's cooking
 
 - Building high-performance AscendNPU-IR at Huawei HKRC
-- Competitively programming at Competitive Programming competitions
+- Programming competitively at Competitive Programming competitions
 - Diving into distributed systems and applied AI
 - Building automated trading systems and nanosecond orderbooks for fun
 - Always down for an algorithm puzzle or a weird side project
