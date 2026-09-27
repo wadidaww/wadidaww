@@ -6,7 +6,9 @@
 Working on AI compilers 🤖 for NPU architectures ⚙️🧠.
 
 Past lives 🔄: Used to do programming competitively at competitive programming competitions. Gratefully won a silver medal 🥈 at ICPC Asia Jakarta 2022 🏆.
+
 Was also full-stack engineer, competitive programming trainer 🏋️‍♂️💻, indie game dev 🎮.
+
 So yeah — a lot of hats 🎩. Always up for trying on more and yet still learning 📚🌱.
 
 🏆 **ICPC Silver Medalist (Asia Jakarta 2022)** · **Gold Medalist Open KSN/OSN 2021** · **Top 0.04% on LeetCode**
