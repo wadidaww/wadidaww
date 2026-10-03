@@ -75,8 +75,6 @@ So yeah — a lot of hats 🎩. Always up for trying on more and yet still learn
 
 Got a wild idea? A bug that won't die? A team that needs another brain? Let's chat.
 
-Clear communication, small iterations, and people who actually care about what they're making — that's the vibe. Snacks to code reviews are a given.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kresna-kirana-kusjantono)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kresna)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kresna)
