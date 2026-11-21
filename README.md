@@ -72,7 +72,7 @@ So yeah — a lot of hats 🎩. Always up for trying on more and yet still learn
 </p>
 
 <p align="center">
-  <img src="https://kresna-personal-website.vercel.app/api/counter?key=github&type=badge&label=views" alt="views">
+  <img src="https://kresna-personal-website.vercel.app/api/counter?key=github&type=badge&label=hi%20there!" alt="Hi there!">
 </p>
 
 ## Let's make something cool
