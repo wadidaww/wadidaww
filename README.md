@@ -71,6 +71,10 @@ So yeah — a lot of hats 🎩. Always up for trying on more and yet still learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadidaww&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://kresna-personal-website.vercel.app/api/counter?key=my-post&type=badge&label=views" alt="views">
+</p>
+
 ## Let's make something cool
 
 Got a wild idea? A bug that won't die? A team that needs another brain? Let's chat.
